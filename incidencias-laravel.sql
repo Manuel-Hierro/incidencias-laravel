@@ -1,7 +1,7 @@
-DROP DATABASE IF EXISTS `IncidenciasLaravel`;
+DROP DATABASE IF EXISTS `incidencias-laravel`;
 
-CREATE DATABASE IF NOT EXISTS IncidenciasLaravel;
-USE IncidenciasLaravel;
+CREATE DATABASE IF NOT EXISTS incidencias-laravel;
+USE incidencias-laravel;
 
 /* Drop Inverso para las Claves Foraneas */
 DROP TABLE IF EXISTS logs;
