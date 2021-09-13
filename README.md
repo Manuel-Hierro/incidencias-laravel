@@ -6,11 +6,11 @@ Aplicación de Incidencias en Laravel
 - Busqueda de Usuarios
 
 # Instalacion
-- Usar la Base de Datos: IncidenciasLaravel
+- Usar la Base de Datos: incidencias-laravel
 - Comando: composer install
 
 # Ejecucion
-- http://localhost/IncidenciasLaravel/public
+- http://localhost/incidencias-laravel/public
 
 # Credenciales de Acceso
 - User: manuel@manuel.com
